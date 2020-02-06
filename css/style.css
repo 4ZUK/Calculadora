@@ -1,0 +1,14 @@
+.row{
+    background-color: violet;
+    font-size: larger;
+    font-weight: 600;
+    font-
+
+}
+
+.colum2{
+ 
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
