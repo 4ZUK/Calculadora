@@ -6,7 +6,7 @@ li {
 
 ul {
     display: grid;
-    grid-template-columns: repeat(3, 100fr);
+    grid-template-columns: repeat(4, 1fr);
     margin: 1 auto;
     /* max-width: 1.5em; */
     padding: 5;
