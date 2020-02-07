@@ -12,11 +12,12 @@ Patrick
 </a>
 
 ## 🎉 RDevs </a>
-<br>Raia Drogasil S.A (https://www.rd.com.br)
+<br>
+[Raia Drogasil S.A](https://www.rd.com.br)
 
 ## ⛏️ Readme feito por:  <a name = "built_using"></a>
 
-- [VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern)
+[VS Marketplace Link:](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern)
 <br>
 <br>Name: Readme Pattern
 <br>Id: thomascsd.vscode-readme-pattern
