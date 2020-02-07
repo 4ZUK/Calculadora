@@ -13,6 +13,7 @@ Patrick
 
 ## 🎉 RDevs </a>
 <br>
+
 [Raia Drogasil S.A](https://www.rd.com.br)
 
 ## ⛏️ Readme feito por:  <a name = "built_using"></a>
